@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Audi",
+        "price": 52642,
+        "year": 2011,
+        "contact": {
+            "dealer": "Max",
+            "phone": "0123456789"
+        }
+    },
+    {
+        "id": 2,
+        "name": "BMW",
+        "price": 30450,
+        "year": 2015,
+        "contact": {
+            "dealer": "Max",
+            "phone": "0123456789"
+        }
+    },
+    {
+        "id": 3,
+        "name": "VW",
+        "price": 6850,
+        "year": 2004,
+        "contact": {
+            "dealer": "Tom",
+            "phone": "7812131231"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Tesla",
+        "price": 35000,
+        "year": 2021,
+        "contact": {
+            "dealer": "Tom",
+            "phone": "7812131231"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Porsche",
+        "price": 152642,
+        "year": 2023,
+        "contact": {
+            "dealer": "Ben",
+            "phone": "9948464854"
+        }
+    }
+]
